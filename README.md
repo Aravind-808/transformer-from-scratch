@@ -27,6 +27,6 @@ Decoder only models are used in cases where the input and output data are closel
 - The loss values for both the models were around 5, which is good provided that I didnt train them with much data.
 
 #### Why Pytorch??
--  Because I prefer it over TensorFlow, no other reason. I'm sure TensorFlow is great and stuff, but im confortable with torch. 
+-  Because I prefer it over TensorFlow, no other reason. I'm sure TensorFlow is great and stuff, but im comfortable with torch. 
 
 Thats it byeeee
